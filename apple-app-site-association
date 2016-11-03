@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+   	  {
+        "appID": "4UH9CN6BFA.com.goldesel.me.goldesel",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
